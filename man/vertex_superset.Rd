@@ -19,4 +19,3 @@ Returns the set of all igraph vertices present at any time in the tgraph
 dn <- constant_rand_tgraph(t=12, n_vertices = 6, p_edge = 0.4)
 make_constant_Vs(dn)
 }
-

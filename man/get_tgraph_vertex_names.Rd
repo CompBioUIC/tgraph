@@ -22,4 +22,3 @@ dn <- uniform_rand_tgraph(t=12, n_vertices = 6, p_edge = 0.4)
 names <- get_tgraph_vertex_names(dn)
 # [1] "1" "2" "3" "4" "5" "6"
 }
-

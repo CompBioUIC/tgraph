@@ -21,4 +21,3 @@ A tgraph with no edges
 lonely_guy_ten_times <- edgeless_tgraph(10, 1)
 five_isolated_people_six_times <- edgeless_tgraph(6, 5)
 }
-

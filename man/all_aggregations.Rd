@@ -20,4 +20,3 @@ A list of max_stepsize dynamic networks
 \description{
 This function applies apply_aggregator to a range of step_size values
 }
-

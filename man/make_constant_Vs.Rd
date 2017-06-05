@@ -19,4 +19,3 @@ Makes the graphs in a tgraph share a constant vertex set
 dn <- constant_rand_tgraph(t=12, n_vertices = 6, p_edge = 0.4)
 make_constant_Vs(dn)
 }
-

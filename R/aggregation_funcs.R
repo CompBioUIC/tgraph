@@ -29,7 +29,7 @@ square_agg_func <- function(agg_func = union) {
 
 }
 
-saf <- function(graphs, agg_func = union) {
+saf <- function(graphs, agg_func = igraph::union) {
 
     res <- do.call(agg_func, graphs)
 

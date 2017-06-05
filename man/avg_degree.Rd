@@ -15,4 +15,3 @@ the average degree of G
 \description{
 the average degree of the graph
 }
-

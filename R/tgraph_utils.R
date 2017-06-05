@@ -71,3 +71,16 @@ vertex_superset <- function(tgraph) {
 make_named_tgraph <- function(tgraph) {
 
 }
+
+
+
+#TODO
+tgraph_is_equal <- function(gtm1, gtm2) {
+
+}
+
+
+
+
+
+

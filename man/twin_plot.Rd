@@ -31,4 +31,3 @@ dn <- uniform_rand_tgraph(t=12, n_vertices = 6, p_edge = 0.4)
 triplicated_dn <- oversample_replicate(dn, 3)
 twin_plot(triplicated_dn)
 }
-

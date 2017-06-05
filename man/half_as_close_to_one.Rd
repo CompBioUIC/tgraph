@@ -19,4 +19,3 @@ returns the number that is half as close to one as the input number
 zero_point_seven_five <- half_as_close_to_one(0.5)
 two <- half_as_close_to_one(3)
 }
-

@@ -13,5 +13,25 @@ LazyData: true
 Suggests:
     testthat,
     igraph,
-    gridExtra
-RoxygenNote: 5.0.1
+    gridExtra,
+    data.tree,
+    rstackdeque
+RoxygenNote: 6.0.1
+Collate: 
+    'aggregation_funcs.R'
+    'commdy.R'
+    'compression_tools.R'
+    'global_defaults.R'
+    'graph_generators.R'
+    'graph_metrics.R'
+    'gtm.R'
+    'gtm_io.R'
+    'plotting.R'
+    'pse_miner.R'
+    'tgraph_metrics.R'
+    'twin.R'
+    'timeordered_compatibility.R'
+    'utility.R'
+    'tgraph_generators.R'
+    'testing_objects.R'
+    'tgraph_utils.R'

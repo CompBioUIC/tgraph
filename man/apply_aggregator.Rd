@@ -21,4 +21,3 @@ the dynamic network that is the described aggregation of tgraph
 This function divides tgraph into subgroups of length step_size, and applies
 agg_func to each
 }
-

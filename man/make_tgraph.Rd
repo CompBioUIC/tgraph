@@ -19,4 +19,3 @@ Uses the timeordered.generatenetworkslices function with a time window of 1.
 dn <- uniform_rand_tgraph(t=12, n_vertices = 6, p_edge = 0.4)
 time_ordered <- make_timeordered(dn)
 }
-

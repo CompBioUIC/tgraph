@@ -33,7 +33,7 @@ half_as_close_to_one <- function(x) {
   1 - (1-x)/2
 }
 
-#' calculates the number of vertices in a dynamic network
+#' calculates the number of vertices in a tgraph
 #'
 #' @param tgraph a dynamic network
 #' @return the number of vertices in tgraph

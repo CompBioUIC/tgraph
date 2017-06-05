@@ -31,4 +31,3 @@ avg_degree_variance_vs_agg_step <- metric_vs_agg_step(
    tgraph_metric = var_avg_degree
 )
 }
-

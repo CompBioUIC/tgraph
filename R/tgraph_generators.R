@@ -1,5 +1,7 @@
 
 library(igraph)
+#' @include utility.R
+
 
 # defaults for tgraph initialization
 default_t_max         <- function() 12
@@ -225,8 +227,6 @@ aggregation_tester_1 <- function(n=5, uniform_connection_p=0.4, agg_func=union) 
   c(graph1, graph2, aggregated)
 
 }
-
-
 
 tij_fully_connected <- function(t = 10, i = 1, j = 1) {
   constant_one(i,j)

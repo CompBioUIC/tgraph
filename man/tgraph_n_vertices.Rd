@@ -19,4 +19,3 @@ calculates the number of vertices in a dynamic network
 dn <- uniform_rand_tgraph(t=2, n_vertices = 6)
 six <- tgraph_n_vertices(dn)
 }
-

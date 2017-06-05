@@ -20,4 +20,3 @@ timestep
 \description{
 Displays a dynamic network at each time step
 }
-

@@ -1,5 +1,6 @@
 library(igraph)
 
+#' @include tgraph_metrics.R
 
 
 #' Apply a tgraph metric on a given tgraph and its time-step-wise aggregations

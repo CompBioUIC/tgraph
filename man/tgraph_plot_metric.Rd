@@ -18,4 +18,3 @@ a plot
 \description{
 Plots a given metric at each time step in a dynamic network
 }
-

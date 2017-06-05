@@ -28,4 +28,3 @@ rectangularize(7, 2) # c(4,2), a 4x2 grid would hold 7 objects in two columns
 rectangularize(8, 2) # c(4,2)
 rectangularize(9, 3) # c(3,3)
 }
-
